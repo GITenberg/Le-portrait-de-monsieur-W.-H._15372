@@ -1,0 +1,45 @@
+_repo: Le-portrait-de-monsieur-W.-H._15372
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Savine, Albert
+    alias: Savine, Alberto
+    birthdate: 1859
+    deathdate: 1927
+    gutenberg_agent_id: '8201'
+    url: http://www.gutenberg.org/2009/agents/8201
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilde, Oscar
+    alias: Wilde, Oscar Fingal O'Flahertie Wills
+    birthdate: 1854
+    deathdate: 1900
+    gutenberg_agent_id: '111'
+    url: http://www.gutenberg.org/2009/agents/111
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Oscar_Wilde
+    - http://fr.wikipedia.org/wiki/Oscar_Wilde
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15372'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Manners and customs -- Fiction'
+- !lcsh 'Short stories, English -- Translations into French'
+- !lcsh 'English fiction -- Translations into French'
+tableOfContents: 'Préface -- Le portrait de monsieur W.H. -- Le fantôme de Canterville
+  -- Le sphinx qui n''a pas de secret -- Le modèle millionnaire -- Poèmes en prose:
+  L''artiste. Le faiseur de bien. Le disciple. Le maître. La maison du jugement. Le
+  maître de sagesse -- L''âme humaine sous le régime socialiste.'
+title: Le portrait de monsieur W. H.
+url: http://www.gutenberg.org/ebooks/15372
